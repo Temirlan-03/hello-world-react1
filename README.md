@@ -1,1 +1,3 @@
-"# Hello World React App" 
+# Hello World React App
+
+Тагайкулов Темирлан 4,106-1
